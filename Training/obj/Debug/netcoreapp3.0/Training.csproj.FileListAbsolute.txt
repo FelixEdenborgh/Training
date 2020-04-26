@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.exe
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.deps.json
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.dll
+C:\Users\Felix\Documents\C# Prodjects\Training\bin\Debug\netcoreapp3.0\Training.pdb
+C:\Users\Felix\Documents\C# Prodjects\Training\obj\Debug\netcoreapp3.0\Training.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\Training\obj\Debug\netcoreapp3.0\Training.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\Training\obj\Debug\netcoreapp3.0\Training.dll
+C:\Users\Felix\Documents\C# Prodjects\Training\obj\Debug\netcoreapp3.0\Training.pdb
